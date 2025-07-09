@@ -1,2 +1,1 @@
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/m00ndiety/99-nights-in-the-forest/refs/heads/main/5b9664e27e375d0b.lua.txt"))()
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/97be6e1efff3a8e739aedef557003b23.lua"))()
